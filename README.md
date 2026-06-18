@@ -13,7 +13,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/nileshvermaa/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-nileshcfs-projects.vercel.app"><img alt="Visit portfolio at nilesh.sys" src="https://img.shields.io/badge/Portfolio-nilesh.sys-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://nileshvermaaresume.vercel.app"><img alt="Visit portfolio at nilesh.sys" src="https://img.shields.io/badge/Portfolio-nilesh.sys-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:nileshvermaq@gmail.com"><img alt="Email nileshvermaq@gmail.com" src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -101,7 +101,7 @@ into clean, resilient, well-documented systems.
 </table>
 
 <p>
-  <a href="https://portfolio-nileshcfs-projects.vercel.app/projects"><img alt="View all projects" src="https://img.shields.io/badge/View_all_projects-→-2563EB?style=flat-square&labelColor=1f2937" /></a>
+  <a href="https://nileshvermaaresume.vercel.app"><img alt="View all projects" src="https://img.shields.io/badge/View_all_projects-→-2563EB?style=flat-square&labelColor=1f2937" /></a>
 </p>
 
 ---
@@ -115,4 +115,4 @@ into clean, resilient, well-documented systems.
 
 ---
 
-<sub>📫 <a href="mailto:nileshvermaq@gmail.com">nileshvermaq@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/nileshvermaa/">linkedin.com/in/nileshvermaa</a> · 🌐 <a href="https://portfolio-nileshcfs-projects.vercel.app">nilesh.sys</a></sub>
+<sub>📫 <a href="mailto:nileshvermaq@gmail.com">nileshvermaq@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/nileshvermaa/">linkedin.com/in/nileshvermaa</a> · 🌐 <a href="https://nileshvermaaresume.vercel.app">nilesh.sys</a></sub>
